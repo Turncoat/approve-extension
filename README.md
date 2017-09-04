@@ -7,8 +7,8 @@ Adds approve button to quickly approve Github PRs without starting a review.
 
 ## Use
 
-Enable developer mode fpr chrome extensions.
+Enable developer mode for chrome extensions.
 
 Use `Load unpacked extensions ...` and search for the `dist` folder.
 
-Save Username and personal access token in extension options.
+Save username and personal access token in extension options.
